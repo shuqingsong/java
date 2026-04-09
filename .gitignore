@@ -6,7 +6,6 @@
 .idea
 *.iml
 .gitignore
-out
-gen
+
 /zxingUtil/
 /mail/
